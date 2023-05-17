@@ -7,6 +7,7 @@ La seguridad de la información es una de mis mayores pasiones y, como tal, esto
 
 En resumen, mi experiencia en administración de sistemas, programación orientada a la ciberseguridad, security monitoring y offensive security me permite tener una visión integral de la seguridad de la información, lo que me permite desarrollar soluciones más eficaces y proteger los sistemas y redes de posibles amenazas.
 
+LINKEDIN : www.linkedin.com/in/alara-p
 
 [![alara-pe's 42 stats](https://badge42.vercel.app/api/v2/clhru2teo010408jr2poxr71k/stats?cursusId=9&coalitionId=274)](https://github.com/JaeSeoKim/badge42)
 
